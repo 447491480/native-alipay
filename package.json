@@ -1,0 +1,25 @@
+{
+
+  "author": {
+    "name": "m2mbob"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "alipay module for react native from yunpeng",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/447491480/weapp-tools.git"
+  },
+  "keywords": [
+    "react-native",
+    "alipay",
+    "yunpeng"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "native-alipay",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
