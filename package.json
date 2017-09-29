@@ -8,7 +8,7 @@
   "description": "alipay module for react native from yunpeng",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/447491480/weapp-tools.git"
+    "url": "git+https://github.com/447491480/native-alipay.git"
   },
   "keywords": [
     "react-native",
