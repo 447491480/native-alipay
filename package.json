@@ -1,9 +1,7 @@
 {
-
   "author": {
     "name": "m2mbob"
   },
-  "bundleDependencies": false,
   "deprecated": false,
   "description": "alipay module for react native from yunpeng",
   "repository": {
